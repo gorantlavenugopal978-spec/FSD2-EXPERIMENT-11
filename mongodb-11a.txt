@@ -64,4 +64,5 @@ Atlas atlas-of3oig-shard-0 [primary] test> db.bookscollection.drop()
 true
 Atlas atlas-of3oig-shard-0 [primary] test> db.dropDatabase()
 |
-{ ok: 1, dropped: 'test' }
+{ ok: 1, dropped: 'test' 
+}
